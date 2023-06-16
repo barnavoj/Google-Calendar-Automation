@@ -2,5 +2,6 @@
 
 Creating events in google calendar automatically from PDF file table of events.
 
-![image](https://github.com/barnavoj/Google-Calendar-Automation/assets/73024775/d3bc99bf-4ff2-4826-bcb9-1f73f35f7aa6)
+
+![screenshot](https://github.com/barnavoj/Google-Calendar-Automation/assets/73024775/5db9b047-076d-4829-a5de-05fa0b1fe643)
 
